@@ -13,4 +13,4 @@
 4. 运行is_my_face.py，构建和上一步相同的网络模型，加载models文件夹下的cnn模型参数，对当前摄像头前的人脸进行识别，判断是不是自己，对人脸进行标注
 
 ## 效果 ##
-![result.jpg](./data/results/result.jpg)
+![result.jpg](./data/results/result.png)
